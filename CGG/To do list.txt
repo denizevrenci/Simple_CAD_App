@@ -1,0 +1,19 @@
+- Add lots of comments
+- List all of the functions that will call onpaint function
+- Add undo-redo operation (major_operation) (minor_operation)
+- Add x,y,z coordinate labels
+- Add accept button functionality to right click
+- Add a clipped line function (also account for both ends being outside the view pane)
+
++ Implement Gram-Schmidt algorithm to view_x and view_y when rotating
++ Add background gradient
++ Add inheritance based screen object data structures
++ Transform the screen-objects to array based point structure
++ Correct the statusbar labels
++ Unify the input control variables
++ Add decay with scale property to samplers
++ Implement pass by reference
++ Isolate the destructor of object_list from the other code (for new tooltip menu)
++ Separate polygon length calculation from point samplers
++ Add scroll selection
++ Draw points on object creation and object selection
